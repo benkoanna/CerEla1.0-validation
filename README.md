@@ -46,4 +46,4 @@ Make sure these tools are installed and accessible in your PATH.
 
 ## 🚀 Running the Pipeline
 
-Scripts are written in bash. To
+Scripts are written in bash.
